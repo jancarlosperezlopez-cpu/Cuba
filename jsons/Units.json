@@ -10,7 +10,7 @@
     "replaces": "Cavalry",
     "upgradesTo": "Helicopter Gunship",
     "uniques": [
-      "[+15]% Strength <when fighting in [Friendly Land] tiles>"
+      "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
     ],
     "attackSound": "horse",
     "promotions": [],
