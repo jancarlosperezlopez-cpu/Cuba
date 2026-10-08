@@ -19,7 +19,7 @@
     "uniqueName": "Con todos y para el bien de todos",
     "uniques": [
       "[+1 Culture] from [Luxury resource] tiles [in all cities]",
-      "[+10]% Strength <when fighting in [Friendly Land]>"
+      "[+10]% Strength <when fighting in [Friendly Land] tiles>"
     ],
     "cities": [
       "La Habana", "Santiago de Cuba", "Camagüey", "Trinidad", "Santa Clara",
