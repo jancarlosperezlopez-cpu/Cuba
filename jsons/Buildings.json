@@ -1,32 +1,14 @@
 [
   {
-    "name": "Gran Teatro de La Habana",
-    "uniqueTo": "Cuba",
-    "replaces": "Opera House",
-
-    "culture": 4,
-    "gold": 1,
-
-    "specialistSlots": {
-      "Artist": 1
-    },
-
-    "hurryCostModifier": 10,
-    "requiredBuilding": "Temple",
+    "name": "Central Azucarero",
+    "replaces": "Windmill",
+    "cost": 135,
     "maintenance": 2,
-    "requiredTech": "Acoustics",
-
+    "requiredTech": "Economics",
     "uniques": [
-      "Destroyed when the city is captured"
-    ],
-
-    "civilopediaText": [
-      {
-        "text": "El Gran Teatro de La Habana es uno de los principales símbolos culturales de la capital cubana y una de las instituciones teatrales más importantes de la isla."
-      },
-      {
-        "text": "Su tradición está vinculada a la ópera, el ballet, la música y las artes escénicas cubanas."
-      }
+      "+2 Production",
+      "+2 Gold from [Sugar]",
+      "+10% Production when constructing [Buildings]"
     ]
   }
 ]
