@@ -1,36 +1,17 @@
 [
   {
-    "name": "Mambi",
-    "unitType": "Mounted",
-    "movement": 3,
-    "strength": 25,
-    "cost": 225,
-
-    "requiredTech": "Military Science",
-    "obsoleteTech": "Combustion",
-    "requiredResource": "Horses",
-
-    "uniqueTo": "Cuba",
-    "replaces": "Cavalry",
-    "upgradesTo": "Tank",
-
+    "name": "Mambí",
+    "replaces": "Rifleman",
+    "unitType": "Gunpowder",
+    "movement": 2,
+    "strength": 34,
+    "cost": 220,
+    "requiredTech": "Rifling",
     "uniques": [
-      "Can move after attacking",
-      "No defensive terrain bonus",
-      "[-33]% Strength <vs cities> <when attacking>",
-      "Never appears as a Barbarian unit",
-      "[+15]% Strength <when fighting in [Friendly Land] tiles>"
+      "Ignores terrain cost",
+      "+25% Combat Strength in [Jungle] tiles",
+      "+25% Combat Strength in [Forest] tiles"
     ],
-
-    "attackSound": "cavalry",
-
-    "civilopediaText": [
-      {
-        "text": "Los mambises fueron los combatientes de las guerras de independencia cubanas. El término mambí quedó asociado especialmente al Ejército Libertador y a la lucha por la independencia de Cuba."
-      },
-      {
-        "text": "La caballería mambisa fue célebre por su movilidad y por la carga al machete, empleada como táctica de choque contra las fuerzas españolas."
-      }
-    ]
+    "militaryConcept": "Unidad de infantería ligera altamente móvil en terrenos difíciles y experta en emboscadas."
   }
 ]
