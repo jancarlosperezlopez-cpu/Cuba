@@ -5,13 +5,9 @@
     "terrainsCanBeBuiltOn": ["Plains", "Grassland"],
     "techRequired": "Calendar",
     "turnsToBuild": 5,
-    "gold": 1,
+    "gold": 2,
     "culture": 1,
     "shortcutKey": "V",
-    "uniques": [
-      "[+1 Gold] <after discovering [Economics]>",
-      "[+1 Culture] <after discovering [Printing Press]>"
-    ],
     "civilopediaText": [
       {"text": "Plantación tradicional de tabaco de las vegas cubanas, cuyos habanos son famosos en el mundo entero."}
     ]
