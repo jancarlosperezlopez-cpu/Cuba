@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Cuba",
+    "leaderName": "José Martí",
+    "adjective": ["Cubano"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Cultural",
+    "startIntroPart1": "Salve, Apóstol de la independencia. Tu pluma y tu palabra han despertado a la isla más hermosa que ojos humanos hayan visto.",
+    "startIntroPart2": "Guía a Cuba hacia la libertad y haz de ella un faro de cultura, música y dignidad. ¡Con todos, y para el bien de todos!",
+    "declaringWar": "Hemos agotado la paz. La patria exige que se defienda con el machete y con la razón.",
+    "attacked": "Quien ataca a un pueblo que ama su libertad no conoce la fuerza de un pueblo entero.",
+    "defeated": "Podrán caer los hombres, pero no la idea. Cuba vivirá en la memoria de sus hijos.",
+    "introduction": "Soy José Martí. Vengo en nombre de Cuba, con la mano abierta y el corazón limpio.",
+    "neutralHello": "Que la amistad entre nuestros pueblos sea tan sincera como las palmas de mi tierra.",
+    "hateHello": "Hablaré con usted, pero sepa que la dignidad de Cuba no está en venta.",
+    "tradeRequest": "El comercio justo une a los pueblos. ¿Aceptará este trato honrado?",
+    "innerColor": [255, 255, 255],
+    "outerColor": [0, 42, 143],
+    "uniqueName": "Con todos y para el bien de todos",
+    "uniques": [
+      "[+1 Culture] from [Luxury resource] tiles [in all cities]",
+      "[+10]% Strength <when fighting in [Friendly Land]>"
+    ],
+    "cities": [
+      "La Habana", "Santiago de Cuba", "Camagüey", "Trinidad", "Santa Clara",
+      "Matanzas", "Cienfuegos", "Holguín", "Bayamo", "Pinar del Río",
+      "Baracoa", "Sancti Spíritus", "Remedios", "Guantánamo", "Manzanillo",
+      "Cárdenas", "Las Tunas", "Ciego de Ávila", "Artemisa", "Nueva Gerona"
+    ]
+  }
+]
