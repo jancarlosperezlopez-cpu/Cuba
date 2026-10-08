@@ -3,7 +3,8 @@
     "name": "Gran Teatro de La Habana",
     "uniqueTo": "Cuba",
     "replaces": "Opera House",
-    "cloneStats": "Opera House",
+    "cost": 150,
+    "requiredTech": "Acoustics",
     "culture": 4,
     "gold": 2,
     "civilopediaText": [
