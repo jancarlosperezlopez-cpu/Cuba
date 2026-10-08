@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mambi",
+    "unitType": "Mounted",
+    "movement": 3,
+    "strength": 35,
+    "cost": 120,
+    "requiredTech": "Military Science",
+    "uniqueTo": "Cuba",
+    "replaces": "Cavalry",
+    "upgradesTo": "Helicopter Gunship",
+    "obsoleteTech": "Combustion",
+    "uniques": [
+      "[+15]% Strength <when fighting in [Friendly Land]>",
+      "Heals [10] HP when killing a unit"
+    ],
+    "attackSound": "horse",
+    "promotions": [],
+    "civilopediaText": [
+      {"text": "Jinete insurgente del Ejército Libertador, famoso por la carga al machete."}
+    ]
+  }
+]
