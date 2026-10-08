@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Gran Teatro de La Habana",
+    "uniqueTo": "Cuba",
+    "replaces": "Opera House",
+    "cloneStats": "Opera House",
+    "culture": 4,
+    "gold": 2,
+    "civilopediaText": [
+      {"text": "Coliseo del ballet, la ópera y la zarzuela. Símbolo del peso cultural de La Habana."}
+    ]
+  }
+]
