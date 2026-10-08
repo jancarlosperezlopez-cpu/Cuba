@@ -9,7 +9,6 @@
     "uniqueTo": "Cuba",
     "replaces": "Cavalry",
     "upgradesTo": "Helicopter Gunship",
-    "obsoleteTech": "Combustion",
     "uniques": [
       "[+15]% Strength <when fighting in [Friendly Land] tiles>"
     ],
