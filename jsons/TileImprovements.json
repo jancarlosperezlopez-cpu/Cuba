@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Vega de tabaco",
+		"uniqueTo": "Cuba",
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Flood plains"],
+		"gold": 2,
+		"culture": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Calendar",
+		"uniques": [
+			"Cannot be built on [Bonus resource] tiles",
+			"[+1 Gold] <after discovering [Economics]>",
+			"[+1 Culture] <after discovering [Printing Press]>",
+			"[+1 Food] from [Fresh water] tiles",
+			"Pillaging this improvement yields approximately [+18 Gold]"
+		],
+		"shortcutKey": "V"
+	}
+]
