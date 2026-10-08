@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Casa de Habanos",
+		"replaces": "Market",
+		"uniqueTo": "Cuba",
+		"gold": 2,
+		"culture": 1,
+		"happiness": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": [
+			"[+1 Gold] from [Plantation] tiles [in this city]",
+			"[+1 Gold] from [Vega de tabaco] tiles [in this city]"
+		],
+		"requiredTech": "Currency"
+	}
+]
