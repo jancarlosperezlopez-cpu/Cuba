@@ -3,12 +3,30 @@
     "name": "Gran Teatro de La Habana",
     "uniqueTo": "Cuba",
     "replaces": "Opera House",
-    "cost": 150,
-    "requiredTech": "Acoustics",
+
     "culture": 4,
-    "gold": 2,
+    "gold": 1,
+
+    "specialistSlots": {
+      "Artist": 1
+    },
+
+    "hurryCostModifier": 10,
+    "requiredBuilding": "Temple",
+    "maintenance": 2,
+    "requiredTech": "Acoustics",
+
+    "uniques": [
+      "Destroyed when the city is captured"
+    ],
+
     "civilopediaText": [
-      {"text": "Coliseo del ballet, la ópera y la zarzuela. Símbolo del peso cultural de La Habana."}
+      {
+        "text": "El Gran Teatro de La Habana es uno de los principales símbolos culturales de la capital cubana y una de las instituciones teatrales más importantes de la isla."
+      },
+      {
+        "text": "Su tradición está vinculada a la ópera, el ballet, la música y las artes escénicas cubanas."
+      }
     ]
   }
 ]
