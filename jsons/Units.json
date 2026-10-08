@@ -1,21 +1,36 @@
 [
   {
-    "name": "Mambi",
+    "name": "Mambí",
     "unitType": "Mounted",
     "movement": 3,
-    "strength": 35,
-    "cost": 120,
+    "strength": 25,
+    "cost": 225,
     "requiredTech": "Military Science",
+    "obsoleteTech": "Combustion",
+    "requiredResource": "Horses",
+
     "uniqueTo": "Cuba",
     "replaces": "Cavalry",
-    "upgradesTo": "Helicopter Gunship",
+    "upgradesTo": "Tank",
+
     "uniques": [
-      "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "[-33]% Strength <vs cities> <when attacking>",
+      "[-33]% Strength <vs [Mounted] units>",
+      "Never appears as a Barbarian unit",
+      "[+15]% Strength <when fighting in [Friendly Land] tiles>"
     ],
-    "attackSound": "horse",
-    "promotions": [],
+
+    "attackSound": "cavalry",
+
     "civilopediaText": [
-      {"text": "Jinete insurgente del Ejército Libertador, famoso por la carga al machete."}
+      {
+        "text": "Los mambises fueron los combatientes de las guerras de independencia cubanas. El término mambí quedó asociado especialmente al Ejército Libertador y a la lucha por la independencia de Cuba."
+      },
+      {
+        "text": "La caballería mambisa fue célebre por su movilidad y por la carga al machete, empleada como táctica de choque contra las fuerzas españolas."
+      }
     ]
   }
 ]
