@@ -11,8 +11,7 @@
     "upgradesTo": "Helicopter Gunship",
     "obsoleteTech": "Combustion",
     "uniques": [
-      "[+15]% Strength <when fighting in [Friendly Land]>",
-      "Heals [10] HP when killing a unit"
+      "[+15]% Strength <when fighting in [Friendly Land] tiles>"
     ],
     "attackSound": "horse",
     "promotions": [],
